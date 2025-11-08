@@ -19,5 +19,5 @@ An **interactive question-answering (QA) system** that provides **detailed answe
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/interactive-health-qa.git
+git clone https://github.com/Alisha-2004/interactive-health-qa.git
 cd interactive-health-qa
